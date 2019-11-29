@@ -1,0 +1,18 @@
+{
+    "name": "bach",
+    "type": "package",
+    "author": "Andrea Agostini and Daniele Ghisi",
+    "description": "bach: automated composer's helper - a library for real-time computer-assisted composition",
+    "version": "0.7.9",
+    "major_version": "0",
+    "minor_version": "79",
+    "min_max_version": "61",
+    "min_osx_version": "68",
+    "min_win_version": "XP",
+    "website": "http://www.bachproject.net",
+    "link_mac32": "http://data.bachproject.net/download.php?file=bach_0.7.9.zip",
+    "link_mac64": "http://data.bachproject.net/download.php?file=bach_0.7.9.zip",
+    "link_win32": "http://data.bachproject.net/download.php?file=bach_0.7.9.zip",
+    "link_win64": "http://data.bachproject.net/download.php?file=bach_0.7.9.zip",
+    "relative_path": "None"
+}
