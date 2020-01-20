@@ -34,3 +34,4 @@ Piano Phaseでは2台のピアノが同じ短いフレーズを少しだけち�
   
 - [bach project](https://www.bachproject.net/)
 
+macOS Mojave(10.14.6) + Max 8.0.6(c36dce5)にて動作確認。
